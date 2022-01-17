@@ -39,8 +39,8 @@ Sou Eduarco Cruz, Programador por afinidade.
   
   <a href="https://www.linkedin.com/in/decodingeduardocruz/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/DecodingEduardoCruz/DecodingEduardoCruz/actions/workflows/snake.yml/badge.svg)
+
+  ![Snake animation](https://github.com/DecodingEduardoCruz/DecodingEduardoCruz/blob/output/github-contribution-grid-snake.svg)
 
 </div>  
 
