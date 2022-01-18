@@ -11,7 +11,7 @@ Sou Eduarco Cruz, Programador por afinidade.
 - 🏗  Trabalho com back-end
 - 🌱 Estudando Node e Kotlin
 - 📫 Na duvida mande um email: tecnologiaesolucoespr@gmail.com
-- 😄 Pronouns: ele/dele
+- ☕ Java porque Café e Vida!
   
 <div style="display: inline_block"><br> 
     <img align="center" alt="E-Cruz-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
