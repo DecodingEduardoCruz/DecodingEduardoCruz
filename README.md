@@ -27,10 +27,10 @@ Sou Eduarco Cruz, Programador por afinidade.
     <img align="center" alt="E-Cruz-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 </div>
 <div style="display: inline_block"><br> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank">
+  <a href="https://www.youtube.com/channel/UCExE0ZPQtcQ6_oOjqzdtNLA" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
-  <a href="https://instagram.com/palmasparana" target="_blank">
+  <a href="https://instagram.com/decodingeduardocruz" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-840010?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
   
